@@ -23,4 +23,4 @@ Advanced:
 
   6. Do you know what is WAL ( Write Ahead Logs in SQL ) ?
 
-  7. 
+  7. What are Indexes ? Why are they used ?
